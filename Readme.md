@@ -1,22 +1,14 @@
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kissjs/node-mongoskin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# mongoskin
+# mongoSkin3
 
-[![Build Status](https://secure.travis-ci.org/kissjs/node-mongoskin.svg)](http://travis-ci.org/kissjs/node-mongoskin)
-[![Dependencies](https://david-dm.org/kissjs/node-mongoskin.svg)](https://david-dm.org/kissjs/node-mongoskin)
-[![Coverage Status](https://coveralls.io/repos/kissjs/node-mongoskin/badge.svg?branch=master)](https://coveralls.io/r/kissjs/node-mongoskin?branch=master)
-[![NPM version](https://badge.fury.io/js/mongoskin.svg)](http://badge.fury.io/js/mongoskin)
+fock from https://github.com/kissjs/node-mongoskin/
 
-[![NPM](https://nodei.co/npm/mongoskin.png?downloads=true&stars=true)](https://nodei.co/npm/mongoskin/)
 
-[![NPM](https://nodei.co/npm-dl/mongoskin.png?months=6)](https://nodei.co/npm/mongoskin/)
+# Why create this project
 
-Install
-========
+**NOTE: v3.x released with breaking API changes. You can find a list of changes [here](https://github.com/mongodb/node-mongodb-native/blob/3.6/CHANGES_3.0.0.md).**
 
-```bash
-$ npm install mongoskin
-```
+
 
 Usage
 ========
